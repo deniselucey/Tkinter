@@ -1,7 +1,6 @@
 # A Tkinter Text widget that provides a scrolling display of console
 # stderr and stdout.
 
-
 import threading
 from tkinter import *
 
